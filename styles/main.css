@@ -1,0 +1,47 @@
+.main {
+	border: 1px solid black;
+	max-width: 950px;
+	min-width: 320px;
+	margin: auto;
+	background: #ffffff;
+	}
+#vera {
+	border: 1px solid blue;
+	max-width: 200px;
+	min-width: 120px;
+	float: left;	
+	}
+#headtext {
+	border: 1px solid red;
+	}
+
+.terms {
+	border: 1px solid grey;
+	}
+#termsLeft {
+	border: 1px solid blue;
+	max-width: 200px;
+	min-width: 120px;
+	float: left;
+	}
+#termsRight {
+	border: 1px solid red;
+	}
+	
+.cards {
+	border: 1px solid grey;
+	}
+#cardPic {
+	border: 1px solid black;
+	text-align: center;
+	}
+#cardsLeft {
+	border: 1px solid blue;
+	max-width: 200px;
+	min-width: 120px;
+	float: left;
+	}
+#cardsRight {
+	border: 1px solid red;
+	}
+	
