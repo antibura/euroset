@@ -5,14 +5,27 @@
 	margin: auto;
 	background: #ffffff;
 	}
+	
+.top {
+	max-height: 611px;
+	}
+	
 #vera {
 	border: 1px solid blue;
-	max-width: 200px;
+	max-width: 418px;
 	min-width: 120px;
-	float: left;	
+	max-height: 611px;
+	min-height: 120px;
+	float: left;
+	margin-right: 20px;	
 	}
 #headtext {
 	border: 1px solid red;
+	height: 611px;
+	}
+	
+#logo-kz-small {
+	padding-top: 20%;
 	}
 
 .terms {
