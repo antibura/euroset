@@ -36,19 +36,46 @@
 	}
 	
 .cards {
-	border: 1px solid grey;
+	height: 500px;
+	border-bottom: 1px solid #eaeaea;
+	padding-top: 30px;
+	padding-bottom: 40px;
+	background: url(../images/cards-blue-bg.png) no-repeat;
+	background-position: bottom;
 	}
 #cardPic {
-	border: 1px solid black;
 	text-align: center;
 	}
 #cardsLeft {
-	border: 1px solid blue;
-	max-width: 200px;
-	min-width: 120px;
+	width: 318px;
+	clear: left;
 	float: left;
+	padding: 0 50px;
 	}
 #cardsRight {
-	border: 1px solid red;
+	padding-left: 440px;
+	height: 100%;
+	}
+
+#logo {
+	width: 200px;
+	float: left;
 	}
 	
+#text {
+	padding-left: 225px;
+	margin: 25px 0;
+	}
+	
+.apps {
+	padding: 20px 0;
+	border-top: 1px solid #eaeaea;
+	}
+
+#ios {
+	float: left;
+	}
+	
+#android {
+	padding-left: 300px;
+	}

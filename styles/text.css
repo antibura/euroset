@@ -29,7 +29,7 @@
 	font-size: 14pt;
 	color: #010101;
 	}
-	
+
 .main p {
 	font-family: Tahoma;
 	font-size: 10pt;
@@ -45,7 +45,30 @@
 	line-height: 1.2;
 	}
 	
+.transfer p {
+	line-height: 1.4;
+	font-size: 9pt;
+	}
+	
+.footer p {
+	line-height: 1.2;
+	font-size: 8pt;
+	color: #b0b0b0;
+	}
+	
 #lightP {
 	color: #bababa;
 	margin: 0;
+	}
+
+.trans {
+	font-family: Tahoma;
+	font-size: 14pt;
+	color: #00aaf0;
+	border-bottom: 1px dashed #00aaf0;
+	font-weight: 400;
+	}	
+
+a {
+	color: #00aaf0;
 	}
