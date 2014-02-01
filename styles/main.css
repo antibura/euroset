@@ -1,7 +1,5 @@
 .main {
-	border: 1px solid black;
-	max-width: 950px;
-	min-width: 320px;
+	width: 950px;
 	margin: auto;
 	background: #ffffff;
 	}
@@ -11,34 +9,30 @@
 	}
 	
 #vera {
-	border: 1px solid blue;
-	max-width: 418px;
-	min-width: 120px;
-	max-height: 611px;
-	min-height: 120px;
+	min-width: 418px;
+	min-height: 611px;
 	float: left;
-	margin-right: 20px;	
 	}
 #headtext {
-	border: 1px solid red;
-	height: 611px;
+	min-height: 611px;
+	padding-left: 440px;
 	}
 	
-#logo-kz-small {
-	padding-top: 20%;
-	}
-
 .terms {
-	border: 1px solid grey;
+	border-top: 1px solid #eaeaea;
+	border-bottom: 1px solid #eaeaea;
+	margin-top: -1px;
+	background-color: #f6f7f8;
+	padding-bottom: 20px;
 	}
 #termsLeft {
-	border: 1px solid blue;
-	max-width: 200px;
-	min-width: 120px;
+	width: 318px;
+	clear: left;
 	float: left;
+	padding: 45px 50px 0 50px;
 	}
 #termsRight {
-	border: 1px solid red;
+	padding-left: 440px;
 	}
 	
 .cards {

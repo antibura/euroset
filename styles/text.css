@@ -23,10 +23,29 @@
 	font-size: 16pt;
 	color: #010101;
 	}
+
+.main h3 {
+	font-family: HouschkaRoundedDemiBold;
+	font-size: 14pt;
+	color: #010101;
+	}
 	
 .main p {
 	font-family: Tahoma;
 	font-size: 10pt;
 	color: #7e7e7e;
 	line-height: 1.8;
+	}
+
+.terms p {
+	margin: 15px 0 0 0;
+	}
+	
+.terms p, #lightP {
+	line-height: 1.2;
+	}
+	
+#lightP {
+	color: #bababa;
+	margin: 0;
 	}
