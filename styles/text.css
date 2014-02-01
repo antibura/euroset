@@ -18,16 +18,17 @@
 	color: #00aaf0;
 	}
 	
-.main h2 {
+.main h2, h3 {
 	font-family: HouschkaRoundedDemiBold;
-	font-size: 16pt;
 	color: #010101;
 	}
 
+.main h2 {
+	font-size: 16pt;
+	}
+
 .main h3 {
-	font-family: HouschkaRoundedDemiBold;
 	font-size: 14pt;
-	color: #010101;
 	}
 
 .main p {
@@ -41,7 +42,7 @@
 	margin: 15px 0 0 0;
 	}
 	
-.terms p, #lightP {
+.terms p {
 	line-height: 1.2;
 	}
 	
@@ -57,6 +58,7 @@
 	}
 	
 #lightP {
+	line-height: 1.2;
 	color: #bababa;
 	margin: 0;
 	}

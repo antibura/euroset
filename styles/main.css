@@ -4,17 +4,14 @@
 	background: #ffffff;
 	}
 	
-.top {
-	max-height: 611px;
-	}
-	
-#vera {
-	min-width: 418px;
-	min-height: 611px;
+#girl {
+	width: 418px;
+	height: 611px;
 	float: left;
 	}
+	
 #headtext {
-	min-height: 611px;
+	height: 611px;
 	padding-left: 440px;
 	}
 	
@@ -22,15 +19,17 @@
 	border-top: 1px solid #eaeaea;
 	border-bottom: 1px solid #eaeaea;
 	margin-top: -1px;
-	background-color: #f6f7f8;
 	padding-bottom: 20px;
+	background-color: #f6f7f8;
 	}
+	
 #termsLeft {
 	width: 318px;
 	clear: left;
 	float: left;
-	padding: 45px 50px 0 50px;
+	padding: 50px 50px 0 50px;
 	}
+	
 #termsRight {
 	padding-left: 440px;
 	}
@@ -43,18 +42,21 @@
 	background: url(../images/cards-blue-bg.png) no-repeat;
 	background-position: bottom;
 	}
+	
 #cardPic {
 	text-align: center;
 	}
+	
 #cardsLeft {
 	width: 318px;
 	clear: left;
 	float: left;
 	padding: 0 50px;
 	}
+	
 #cardsRight {
-	padding-left: 440px;
 	height: 100%;
+	padding-left: 440px;
 	}
 
 #logo {
@@ -63,13 +65,13 @@
 	}
 	
 #text {
-	padding-left: 225px;
 	margin: 25px 0;
+	padding-left: 225px;
 	}
 	
 .apps {
-	padding: 20px 0;
 	border-top: 1px solid #eaeaea;
+	padding: 20px 0;
 	}
 
 #ios {
